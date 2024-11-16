@@ -1,4 +1,5 @@
-local mod = get_mod("TeammateLocator")
+-- Teammate Locator
+-- Description: Modifies teammate combat nameplates to show distance information.
+-- Autor: Phlegmlee
 
--- Your mod code goes here.
--- https://dmf-docs.darkti.de
+local mod = get_mod("TeammateLocator")
