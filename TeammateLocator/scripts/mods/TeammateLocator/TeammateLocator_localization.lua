@@ -9,10 +9,13 @@ return {
 	placeholder = {
 		en = "Placeholder Settings"
 	},
-	item1 = {
-		en = "Item 1"
+	numeric_item = {
+		en = "Numeric Item"
 	},
-	item2 = {
-		en = "Item 2"
+	checkbox_item = {
+		en = "Checkbox Item"
+	},
+	dropdown_item = {
+		en = "Dropdown Item"
 	},
 }
